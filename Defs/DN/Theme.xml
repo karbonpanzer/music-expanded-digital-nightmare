@@ -1,0 +1,131 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_DN</defName>
+        <label>Music Expanded: Digital Nightmare</label>
+		<iconPath>UI/Icons/DN</iconPath>
+        <description>Contains Tracks from the Digital Nightmare, a music mod for Fallout New Vegas.</description>
+		<tracks>	
+
+			<!-- Ambient Tracks -->
+			<li>ME_DN_1</li>
+			<li>ME_DN_2</li>
+			<li>ME_DN_3</li>
+			<li>ME_DN_4</li>
+			<li>ME_DN_5</li>
+			<li>ME_DN_6</li>
+			<li>ME_DN_7</li>
+			<li>ME_DN_8</li>
+			<li>ME_DN_9</li>
+			<li>ME_DN_10</li>	
+			
+			<li>ME_DN_11</li>
+			<li>ME_DN_12</li>
+			<li>ME_DN_13</li>
+			<li>ME_DN_14</li>
+			<li>ME_DN_15</li>
+			<li>ME_DN_16</li>
+			<li>ME_DN_17</li>
+			<li>ME_DN_18</li>
+			<li>ME_DN_19</li>
+			<li>ME_DN_20</li>
+			
+			<li>ME_DN_21</li>
+			<li>ME_DN_22</li>
+			<li>ME_DN_23</li>
+			<li>ME_DN_24</li>
+			<li>ME_DN_25</li>
+			<li>ME_DN_26</li>
+			<li>ME_DN_27</li>
+			<li>ME_DN_28</li>
+			<li>ME_DN_29</li>
+			<li>ME_DN_30</li>
+			
+			<li>ME_DN_31</li>
+			<li>ME_DN_32</li>
+			<li>ME_DN_33</li>
+			<li>ME_DN_34</li>
+			<li>ME_DN_35</li>
+			<li>ME_DN_36</li>
+			<li>ME_DN_37</li>
+			<li>ME_DN_38</li>
+			<li>ME_DN_39</li>
+			<li>ME_DN_40</li>
+			
+			<li>ME_DN_41</li>
+			<li>ME_DN_42</li>
+			<li>ME_DN_43</li>
+			<li>ME_DN_44</li>
+			<li>ME_DN_45</li>
+			<li>ME_DN_46</li>
+			<li>ME_DN_47</li>
+		
+			<!-- Main Menu/Credits Tracks -->
+			<li>ME_DN_48</li>	
+			
+			<!-- Battle Tracks Tracks -->
+	
+			<li>ME_DN_49</li>
+			<li>ME_DN_50</li>	
+			<li>ME_DN_51</li>
+			<li>ME_DN_52</li>
+			<li>ME_DN_53</li>
+			<li>ME_DN_54</li>
+	
+			<li>ME_DN_55</li>
+			<li>ME_DN_56</li>
+			<li>ME_DN_57</li>
+			<li>ME_DN_58</li>
+			<li>ME_DN_59</li>
+			<li>ME_DN_60</li>
+			<li>ME_DN_61</li>
+			<li>ME_DN_62</li>
+			<li>ME_DN_63</li>
+			<li>ME_DN_64</li>
+			<li>ME_DN_65</li>
+			
+			<li>ME_DN_66</li>
+			<li>ME_DN_67</li>
+			<li>ME_DN_68</li>
+			<li>ME_DN_69</li>
+			<li>ME_DN_70</li>
+			<li>ME_DN_71</li>
+			<li>ME_DN_72</li>
+			<li>ME_DN_73</li>
+			<li>ME_DN_74</li>
+			<li>ME_DN_75</li>
+			
+			<li>ME_DN_76</li>
+			<li>ME_DN_77</li>
+			<li>ME_DN_78</li>
+			<li>ME_DN_79</li>
+			<li>ME_DN_80</li>
+			<li>ME_DN_81</li>
+			<li>ME_DN_82</li>
+			<li>ME_DN_83</li>
+			<li>ME_DN_84</li>
+			<li>ME_DN_85</li>
+
+			<li>ME_DN_86</li>
+			<li>ME_DN_87</li>
+			<li>ME_DN_88</li>
+			<li>ME_DN_89</li>
+			<li>ME_DN_90</li>
+			<li>ME_DN_91</li>
+			<li>ME_DN_92</li>
+			<li>ME_DN_93</li>
+			<li>ME_DN_94</li>
+			<li>ME_DN_95</li>		
+
+			<li>ME_DN_96</li>
+			<li>ME_DN_97</li>
+			<li>ME_DN_98</li>
+			<li>ME_DN_99</li>
+			<li>ME_DN_100</li>
+			<li>ME_DN_101</li>
+			<li>ME_DN_102</li>			
+			
+			<!-- Custom Cue Tracks -->
+		
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

@@ -1,0 +1,590 @@
+<Defs>
+
+   <!-- Main Tracks -->	
+
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Barterman</label>
+		<defName>ME_DN_1</defName>
+		<clipPath>MusicExpanded/DN/Barterman</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Bastion of Hope</label>
+		<defName>ME_DN_2</defName>
+		<clipPath>MusicExpanded/DN/Bastion of Hope</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Binary Ghost</label>
+		<defName>ME_DN_3</defName>
+		<clipPath>MusicExpanded/DN/Binary Ghost I</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Blood and Chrome</label>
+		<defName>ME_DN_4</defName>
+		<clipPath>MusicExpanded/DN/Blood and Chrome</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Caesar's Will</label>
+		<defName>ME_DN_5</defName>
+		<clipPath>MusicExpanded/DN/Caesar's Will I</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Camp Ambivalence</label>
+		<defName>ME_DN_6</defName>
+		<clipPath>MusicExpanded/DN/Camp Ambivalence</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Caps for Gold</label>
+		<defName>ME_DN_7</defName>
+		<clipPath>MusicExpanded/DN/Caps for Gold</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Caustic Cavern</label>
+		<defName>ME_DN_8</defName>
+		<clipPath>MusicExpanded/DN/Caustic Cavern I</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Cogs for the Machine</label>
+		<defName>ME_DN_9</defName>
+		<clipPath>MusicExpanded/DN/Cogs for the Machine</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Creeper</label>
+		<defName>ME_DN_10</defName>
+		<clipPath>MusicExpanded/DN/Creeper</clipPath>
+	</MusicExpanded.TrackDef>
+	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Desert People</label>
+		<defName>ME_DN_11</defName>
+		<clipPath>MusicExpanded/DN/Desert People</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Desert Warrior</label>
+		<defName>ME_DN_12</defName>
+		<clipPath>MusicExpanded/DN/Desert Warrior</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Desolation, Isolation</label>
+		<defName>ME_DN_13</defName>
+		<clipPath>MusicExpanded/DN/Desolation, Isolation</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Distance</label>
+		<defName>ME_DN_14</defName>
+		<clipPath>MusicExpanded/DN/Distance</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Distorted Hope</label>
+		<defName>ME_DN_15</defName>
+		<clipPath>MusicExpanded/DN/Distorted Hope</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Downwards</label>
+		<defName>ME_DN_16</defName>
+		<clipPath>MusicExpanded/DN/Downwards I</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- FEV</label>
+		<defName>ME_DN_17</defName>
+		<clipPath>MusicExpanded/DN/FEV</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Future Echoes</label>
+		<defName>ME_DN_18</defName>
+		<clipPath>MusicExpanded/DN/Future Echoes</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Gamma Leak</label>
+		<defName>ME_DN_19</defName>
+		<clipPath>MusicExpanded/DN/Gamma Leak</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- High Tension</label>
+		<defName>ME_DN_20</defName>
+		<clipPath>MusicExpanded/DN/High Tension</clipPath>
+	</MusicExpanded.TrackDef>	
+
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- In The Hall of the Raider King</label>
+		<defName>ME_DN_21</defName>
+		<clipPath>MusicExpanded/DN/In The Hall of the Raider King</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- In The Water</label>
+		<defName>ME_DN_22</defName>
+		<clipPath>MusicExpanded/DN/In The Water</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Legionaries</label>
+		<defName>ME_DN_23</defName>
+		<clipPath>MusicExpanded/DN/Legionaries I</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Malevolence</label>
+		<defName>ME_DN_24</defName>
+		<clipPath>MusicExpanded/DN/Malevolence</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Metallic Mausoleum</label>
+		<defName>ME_DN_25</defName>
+		<clipPath>MusicExpanded/DN/Metallic Mausoleum</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Mister Prospector</label>
+		<defName>ME_DN_26</defName>
+		<clipPath>MusicExpanded/DN/Mister Prospector</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Modern Life</label>
+		<defName>ME_DN_27</defName>
+		<clipPath>MusicExpanded/DN/Modern Life</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Nightfall</label>
+		<defName>ME_DN_28</defName>
+		<clipPath>MusicExpanded/DN/Nightfall</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- No Heroes</label>
+		<defName>ME_DN_29</defName>
+		<clipPath>MusicExpanded/DN/No Heroes</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Nuclear Holocaust</label>
+		<defName>ME_DN_30</defName>
+		<clipPath>MusicExpanded/DN/Nuclear Holocaust</clipPath>
+	</MusicExpanded.TrackDef>		
+	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Painspike</label>
+		<defName>ME_DN_31</defName>
+		<clipPath>MusicExpanded/DN/Painspike</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Post-Nuke Society</label>
+		<defName>ME_DN_32</defName>
+		<clipPath>MusicExpanded/DN/Post-Nuke Society</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Radiation Creeps</label>
+		<defName>ME_DN_33</defName>
+		<clipPath>MusicExpanded/DN/Radiation Creeps I</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Scavenger's Ruin</label>
+		<defName>ME_DN_34</defName>
+		<clipPath>MusicExpanded/DN/Scavenger's Ruin</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Shacks and Shotguns</label>
+		<defName>ME_DN_35</defName>
+		<clipPath>MusicExpanded/DN/Shacks and Shotguns</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Shadow Walker</label>
+		<defName>ME_DN_36</defName>
+		<clipPath>MusicExpanded/DN/Shadow Walker I</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Spectre</label>
+		<defName>ME_DN_37</defName>
+		<clipPath>MusicExpanded/DN/Spectre I</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Static Thoughts</label>
+		<defName>ME_DN_38</defName>
+		<clipPath>MusicExpanded/DN/Static Thoughts</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Stranger In Town</label>
+		<defName>ME_DN_39</defName>
+		<clipPath>MusicExpanded/DN/Stranger In Town</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Survival Instinct</label>
+		<defName>ME_DN_40</defName>
+		<clipPath>MusicExpanded/DN/Survival Instinct I</clipPath>
+	</MusicExpanded.TrackDef>	
+
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- The Decay</label>
+		<defName>ME_DN_41</defName>
+		<clipPath>MusicExpanded/DN/The Decay</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- The Hunt</label>
+		<defName>ME_DN_42</defName>
+		<clipPath>MusicExpanded/DN/The Hunt I</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- The Republic</label>
+		<defName>ME_DN_43</defName>
+		<clipPath>MusicExpanded/DN/The Republic I</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Wanderer</label>
+		<defName>ME_DN_44</defName>
+		<clipPath>MusicExpanded/DN/Wanderer</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Wasteland Tale</label>
+		<defName>ME_DN_45</defName>
+		<clipPath>MusicExpanded/DN/Wasteland Tale</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Water Caravan</label>
+		<defName>ME_DN_46</defName>
+		<clipPath>MusicExpanded/DN/Water Caravan</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- What Once Was</label>
+		<defName>ME_DN_47</defName>
+		<clipPath>MusicExpanded/DN/What Once Was</clipPath>
+	</MusicExpanded.TrackDef>
+	
+   <!-- Main Menu and Credits -->	
+	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Vacuum</label>
+		<defName>ME_DN_48</defName>
+		<clipPath>MusicExpanded/DN/Vacuum</clipPath>
+        <cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>
+	
+   <!-- Battle Tracks Small -->	 
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Binary Ghost II</label>
+		<defName>ME_DN_49</defName>
+		<clipPath>MusicExpanded/DN/Binary Ghost II</clipPath>
+		<cue>BattleSmall</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Caustic Cavern II</label>
+		<defName>ME_DN_53</defName>
+		<clipPath>MusicExpanded/DN/Caustic Cavern II</clipPath>
+		<cue>BattleSmall</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Radiation Creeps II</label>
+		<defName>ME_DN_59</defName>
+		<clipPath>MusicExpanded/DN/Radiation Creeps II</clipPath>
+		<cue>BattleSmall</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Spectre II</label>
+		<defName>ME_DN_63</defName>
+		<clipPath>MusicExpanded/DN/Spectre II</clipPath>
+		<cue>BattleSmall</cue>			
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Survival Instinct II</label>
+		<defName>ME_DN_65</defName>
+		<clipPath>MusicExpanded/DN/Survival Instinct II</clipPath>
+		<cue>BattleSmall</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- The Hunt II</label>
+		<defName>ME_DN_67</defName>
+		<clipPath>MusicExpanded/DN/The Hunt II</clipPath>
+		<cue>BattleSmall</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Evil (1)</label>
+		<defName>ME_DN_71</defName>
+		<clipPath>MusicExpanded/DN/Evil (1)</clipPath>
+		<cue>BattleSmall</cue>		
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Evil (2)</label>
+		<defName>ME_DN_72</defName>
+		<clipPath>MusicExpanded/DN/Evil (2)</clipPath>
+		<cue>BattleSmall</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Evil (3)</label>
+		<defName>ME_DN_73</defName>
+		<clipPath>MusicExpanded/DN/Evil (3)</clipPath>
+		<cue>BattleSmall</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Evil (4)</label>
+		<defName>ME_DN_74</defName>
+		<clipPath>MusicExpanded/DN/Evil (4)</clipPath>
+		<cue>BattleSmall</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Good (1)</label>
+		<defName>ME_DN_87</defName>
+		<clipPath>MusicExpanded/DN/Good (1)</clipPath>
+		<cue>BattleSmall</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Good (2)</label>
+		<defName>ME_DN_88</defName>
+		<clipPath>MusicExpanded/DN/Good (2)</clipPath>
+		<cue>BattleSmall</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Good (3)</label>
+		<defName>ME_DN_89</defName>
+		<clipPath>MusicExpanded/DN/Good (3)</clipPath>
+		<cue>BattleSmall</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Good (4)</label>
+		<defName>ME_DN_90</defName>
+		<clipPath>MusicExpanded/DN/Good (4)</clipPath>
+		<cue>BattleSmall</cue>		
+	</MusicExpanded.TrackDef>
+	
+   <!-- Battle Tracks Medium -->
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- The Hunt III</label>
+		<defName>ME_DN_68</defName>
+		<clipPath>MusicExpanded/DN/The Hunt III</clipPath>
+		<cue>BattleMedium</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- The Republic II</label>
+		<defName>ME_DN_69</defName>
+		<clipPath>MusicExpanded/DN/The Republic II</clipPath>
+		<cue>BattleMedium</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Binary Ghost III</label>
+		<defName>ME_DN_50</defName>
+		<cue>BattleMedium</cue>	
+		<clipPath>MusicExpanded/DN/Binary Ghost III</clipPath>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Caesar's Will II</label>
+		<defName>ME_DN_51</defName>
+		<clipPath>MusicExpanded/DN/Caesar's Will II</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Downwards II</label>
+		<defName>ME_DN_55</defName>
+		<clipPath>MusicExpanded/DN/Downwards II</clipPath>
+		<cue>BattleMedium</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Legionaries II</label>
+		<defName>ME_DN_57</defName>
+		<clipPath>MusicExpanded/DN/Legionaries II</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>		
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Shadow Walker II</label>
+		<defName>ME_DN_61</defName>
+		<clipPath>MusicExpanded/DN/Shadow Walker II</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Evil (5)</label>
+		<defName>ME_DN_75</defName>
+		<clipPath>MusicExpanded/DN/Evil (5)</clipPath>
+		<cue>BattleMedium</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Evil (6)</label>
+		<defName>ME_DN_76</defName>
+		<clipPath>MusicExpanded/DN/Evil (6)</clipPath>
+		<cue>BattleMedium</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Evil (7)</label>
+		<defName>ME_DN_77</defName>
+		<clipPath>MusicExpanded/DN/Evil (7)</clipPath>
+		<cue>BattleMedium</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Evil (8)</label>
+		<defName>ME_DN_78</defName>
+		<clipPath>MusicExpanded/DN/Evil (8)</clipPath>
+		<cue>BattleMedium</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Good (5)</label>
+		<defName>ME_DN_91</defName>
+		<clipPath>MusicExpanded/DN/Good (5)</clipPath>
+		<cue>BattleMedium</cue>		
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Good (6)</label>
+		<defName>ME_DN_92</defName>
+		<clipPath>MusicExpanded/DN/Good (6)</clipPath>
+		<cue>BattleMedium</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Good (7)</label>
+		<defName>ME_DN_93</defName>
+		<clipPath>MusicExpanded/DN/Good (7)</clipPath>
+		<cue>BattleMedium</cue>		
+	</MusicExpanded.TrackDef>
+	
+   <!-- Battle Tracks Large -->
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Caustic Cavern III</label>
+		<defName>ME_DN_54</defName>
+		<clipPath>MusicExpanded/DN/Caustic Cavern III</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Caesar's Will III</label>
+		<defName>ME_DN_52</defName>
+		<clipPath>MusicExpanded/DN/Caesar's Will III</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Downwards III</label>
+		<defName>ME_DN_56</defName>
+		<cue>BattleLarge</cue>	
+		<clipPath>MusicExpanded/DN/Downwards III</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Legionaries III</label>
+		<defName>ME_DN_58</defName>
+		<clipPath>MusicExpanded/DN/Legionaries III</clipPath>
+		<cue>BattleLarge</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Radiation Creeps III</label>
+		<defName>ME_DN_60</defName>
+		<clipPath>MusicExpanded/DN/Radiation Creeps III</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Shadow Walker III</label>
+		<defName>ME_DN_62</defName>
+		<clipPath>MusicExpanded/DN/Shadow Walker III</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Spectre III</label>
+		<defName>ME_DN_64</defName>
+		<clipPath>MusicExpanded/DN/Spectre III</clipPath>
+		<cue>BattleLarge</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Survival Instinct III</label>
+		<defName>ME_DN_66</defName>
+		<clipPath>MusicExpanded/DN/Survival Instinct III</clipPath>
+		<cue>BattleLarge</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- The Republic III</label>
+		<defName>ME_DN_70</defName>
+		<clipPath>MusicExpanded/DN/The Republic III</clipPath>
+		<cue>BattleLarge</cue>		
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Evil (9)</label>
+		<defName>ME_DN_79</defName>
+		<clipPath>MusicExpanded/DN/Evil (9)</clipPath>
+		<cue>BattleLarge</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Evil (10)</label>
+		<defName>ME_DN_80</defName>
+		<clipPath>MusicExpanded/DN/Evil (10)</clipPath>
+		<cue>BattleLarge</cue>		
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Evil (11)</label>
+		<defName>ME_DN_81</defName>
+		<clipPath>MusicExpanded/DN/Evil (11)</clipPath>
+		<cue>BattleLarge</cue>		
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Evil (12)</label>
+		<defName>ME_DN_82</defName>
+		<clipPath>MusicExpanded/DN/Evil (12)</clipPath>
+		<cue>BattleLarge</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Good (8)</label>
+		<defName>ME_DN_94</defName>
+		<clipPath>MusicExpanded/DN/Good (8)</clipPath>
+		<cue>BattleLarge</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Good (9)</label>
+		<defName>ME_DN_95</defName>
+		<clipPath>MusicExpanded/DN/Good (9)</clipPath>
+		<cue>BattleLarge</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Good (10)</label>
+		<defName>ME_DN_96</defName>
+		<clipPath>MusicExpanded/DN/Good (10)</clipPath>
+		<cue>BattleLarge</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Good (11)</label>
+		<defName>ME_DN_97</defName>
+		<clipPath>MusicExpanded/DN/Good (11)</clipPath>
+		<cue>BattleLarge</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Good (12)</label>
+		<defName>ME_DN_98</defName>
+		<clipPath>MusicExpanded/DN/Good (12)</clipPath>
+		<cue>BattleLarge</cue>		
+	</MusicExpanded.TrackDef>
+	
+   <!-- Battle Tracks Legendary -->	   
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Evil (13)</label>
+		<defName>ME_DN_83</defName>
+		<clipPath>MusicExpanded/DN/Evil (13)</clipPath>
+		<cue>BattleLegendary</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Evil (14)</label>
+		<defName>ME_DN_84</defName>
+		<clipPath>MusicExpanded/DN/Evil (14)</clipPath>
+		<cue>BattleLegendary</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Evil (15)</label>
+		<defName>ME_DN_85</defName>
+		<clipPath>MusicExpanded/DN/Evil (15)</clipPath>
+		<cue>BattleLegendary</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Evil (16)</label>
+		<defName>ME_DN_86</defName>
+		<clipPath>MusicExpanded/DN/Evil (16)</clipPath>
+		<cue>BattleLegendary</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Good (13)</label>
+		<defName>ME_DN_99</defName>
+		<clipPath>MusicExpanded/DN/Good (13)</clipPath>
+		<cue>BattleLegendary</cue>		
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Good (14)</label>
+		<defName>ME_DN_100</defName>
+		<clipPath>MusicExpanded/DN/Good (14)</clipPath>
+		<cue>BattleLegendary</cue>		
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Good (15)</label>
+		<defName>ME_DN_101</defName>
+		<clipPath>MusicExpanded/DN/Good (15)</clipPath>
+		<cue>BattleLegendary</cue>		
+	</MusicExpanded.TrackDef>	
+	<MusicExpanded.TrackDef>
+		<label>Digital Nightmare- Good (16)</label>
+		<defName>ME_DN_102</defName>
+		<clipPath>MusicExpanded/DN/Good (16)</clipPath>
+		<cue>BattleLegendary</cue>		
+	</MusicExpanded.TrackDef>
+	
+   <!-- Custom Cues -->	
+	
+	<!-- Anomaly Tracks -->	
+	
+</Defs>
